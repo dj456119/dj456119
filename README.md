@@ -6,7 +6,7 @@
 
 ### I'm Chunming Dong
 
-- A developing engineer.
+- A developing engineer, paper lover.
 - 🌱 Currently working in Beijing, China.
 - 💬 Ask me about Java, Golang, Distributed, Cloud Native and my projects on [dlz456119@sina.com](mailto:dlz456119@qq.com)
 - ⭐ You may like [AlfheimDB](https://github.com/dj456119/AlfheimDB), [eggOS](http://github.com/dj456119/eggos) 
