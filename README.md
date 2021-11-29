@@ -9,7 +9,7 @@
 - A developing engineer, paper lover.
 - 🌱 Currently working in Beijing, China.
 - 💬 Ask me about Java, Golang, Distributed, Cloud Native and my projects on [dlz456119@sina.com](mailto:dlz456119@qq.com)
-- ⭐ You may like [AlfheimDB](https://github.com/dj456119/AlfheimDB), [eggOS](http://github.com/dj456119/eggos) 
+- ⭐ You may like [AlfheimDB](https://github.com/dj456119/AlfheimDB), [WAL](https://github.com/dj456119/AlfheimDB-WAL), [eggOS](http://github.com/dj456119/eggos) 
 - ⚡ Fun fact: Distributed, Cloud
 
 ### 🛠 技术栈 | Tech Stack
@@ -33,6 +33,7 @@
 
 ### 开源项目
 - [AlfheimDB: A linearizability distributed database by raft and wisckey](https://github.com/dj456119/AlfheimDB)
+- [WAL: A high performance write-ahead log like Bitcask](https://github.com/dj456119/AlfheimDB-WAL)
 - [GameTranslater](https://github.com/dj456119/game-translater)
 
 ### 关于我
