@@ -8,7 +8,7 @@
 
 - A developing engineer, paper lover.
 - 🌱 Currently working in Beijing, China.
-- 💬 Ask me about Java, Golang, Distributed, Cloud Native and my projects on [dlz456119@sina.com](mailto:dlz456119@qq.com)
+- 💬 Ask me about Java, Golang, Distributed, Cloud Native and my projects on [dj456119@gmail.com](mailto:dj456119@gmail.com)
 - ⭐ You may like [AlfheimDB](https://github.com/dj456119/AlfheimDB), [WAL](https://github.com/dj456119/AlfheimDB-WAL), [eggOS](http://github.com/dj456119/eggos) 
 - ⚡ Fun fact: Distributed, Cloud
 
